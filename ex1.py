@@ -1,0 +1,7 @@
+print("Hello World!")
+print("Hi, my name is mxclover")
+print("I am coming again")
+print("So glad to learn python with us")
+print("Stay hungry, stay foolish")
+print("Never give up!")
+print("Just do it!")
